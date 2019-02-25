@@ -1,4 +1,6 @@
-# cp2019  The programs here use python.  > **Python version tested on:** 3.7.2
+# cp2019 
+The programs here use python.
+> **Python version tested on:** 3.7.2
 
 ## **p01**
 ### Projects:
