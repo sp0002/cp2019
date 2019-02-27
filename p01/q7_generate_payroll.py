@@ -1,0 +1,13 @@
+name = input("Name: ")
+hours = float(input("How many hours worked in a week? "))
+pay = float(input("Hourly pay: $"))
+cpf_rate = float(input("CPF contribution rate(%): "))
+
+print("")
+print("Payroll for {}".format(name))
+print("Hours worked in a week: {}".format(hours))
+print("Hourly pay rate: ${:,.2f}".format(pay))
+print("Gross pay: ${:,.2f}".format(pay*hours))
+print("CPF contribution at {}%: ${:,.2f}".format(cpf_rate, pay*hours/100*cpf_rate))
+print("")
+print("Net weekly pay: ${:,.2f}".format(pay*hours/100*(100-cpf_rate)))
