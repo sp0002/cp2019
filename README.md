@@ -1,4 +1,4 @@
-# cp2019 
+# cp2019
 The programs here use _python_.
 > **Python version tested on:** 3.7.2
 
@@ -19,8 +19,8 @@ The programs here use _python_.
 * [Check band](https://github.com/sp0002/cp2019/blob/master/p02/q03_determine_grade.py)  Checks the grade banding for a specific mark.
 * [Determine leap year](https://github.com/sp0002/cp2019/blob/master/p02/q04_determine_leap_year.py)  Returns if a year is a leap year.
 * [Days in a month](https://github.com/sp0002/cp2019/blob/master/p02/q05_find_month_days.py)  Returns the number of days in a given month and year.
-* [Kilograms to pounds](https://github.com/sp0002/cp2019/blob/master/p02/q06_kilograms_to_pounds.py)  Lists in a table how many pounds is 1-10kg. 
-* [Miles to kilometers](https://github.com/sp0002/cp2019/blob/master/p02/q07_miles_to_kilometres.py)  Lists in a table how many kilometers is 1-10 miles. 
+* [Kilograms to pounds](https://github.com/sp0002/cp2019/blob/master/p02/q06_kilograms_to_pounds.py)  Lists in a table how many pounds is 1-10kg.
+* [Miles to kilometers](https://github.com/sp0002/cp2019/blob/master/p02/q07_miles_to_kilometres.py)  Lists in a table how many kilometers is 1-10 miles.
 * [Higher score](https://github.com/sp0002/cp2019/blob/master/p02/q08_top2_scores.py)  Takes the score of students and displays the best 2 students.
 * [Smallest n^2>12000](https://github.com/sp0002/cp2019/blob/master/p02/q09_find_smallest.py)  Finds the smallest integer n such that n^2 is greater than 12,000.
 * [Largest n^3 < 12000](https://github.com/sp0002/cp2019/blob/master/p02/q10_find_largest.py)  Finds the largest integer n such that n^3 is less than 12,000.
@@ -35,4 +35,16 @@ The programs here use _python_.
 * [Sum series](https://github.com/sp0002/cp2019/blob/master/p03/q4_sum_series.py)  Displays a table of i 1-20 and 1/2 + 2/3 + ... + i/(i+1)
 * [1000 prime numbers](https://github.com/sp0002/cp2019/blob/master/p03/q5_determine_prime.py)  Displays the first 1000 prime numbers, 10 in a row.
 * [Random 3x3 matrix](https://github.com/sp0002/cp2019/blob/master/p03/q6_display_matrix.py)  Displays a 3x3 matrix of either 0 or 1.
-* [Miliseconds to hours, min and seconds](https://github.com/sp0002/cp2019/blob/master/p03/q7_convert_milliseconds.py)  Converts miliseconds to hours:minutes:seconds.
+* [Milliseconds to hours, min and seconds](https://github.com/sp0002/cp2019/blob/master/p03/q7_convert_milliseconds.py)  Converts milliseconds to hours:minutes:seconds.
+
+## **p04**
+### Projects:
+#### Programs are recursive
+* [Fraction sum](https://github.com/sp0002/cp2019/blob/master/p04/q1_sum_series1.py)  Returns 1/1 + 1/2 + ... + 1/i, using recursion.
+* [Another fraction sum](https://github.com/sp0002/cp2019/blob/master/p04/q2_sum_series2.py)  Returns 1/3 + 2/5 + ... + i/2i+1, using recursion.
+* [Greatest Common Divisor](https://github.com/sp0002/cp2019/blob/master/p04/q3_find_gcd.py)  Yet another greatest common divisor/highest common factor finder, but using recursion.
+* [Reversed interger](https://github.com/sp0002/cp2019/blob/master/p04/q4_print_reverse.py)  Yet another program that reverses the digit(s) in a number, but using recursion.
+* [Alphabet count](https://github.com/sp0002/cp2019/blob/master/p04/q5_count_letter.py)  Counts the number of times an alphabet appears in a string, using recursion.
+* [Sum of digits](https://github.com/sp0002/cp2019/blob/master/p04/q6_compute_sum.py)  Another program to find the sum of all digits of a number, using recursion.
+* [Largest integer in array](https://github.com/sp0002/cp2019/blob/master/p04/q7_find_largest.py)  Returns the largest integer in an array, using recursion.
+* [Uppercase characters](https://github.com/sp0002/cp2019/blob/master/p04/q8_find_uppercase.py)  Returns the number of uppercase characters in a string, using recursion.
