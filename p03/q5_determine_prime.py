@@ -1,7 +1,7 @@
 def is_prime(n):
 	if n == 2:
 		return True
-	elif n%2 == 0:
+	elif n%2 == 0 or n <= 1:
 		return False
 	else:
 		import math
@@ -9,7 +9,7 @@ def is_prime(n):
 			if n % d == 0:
 				return False
 		return True
-		
+
 looping = True
 e = 2
 nth = 1

@@ -4,7 +4,7 @@ The programs here use _python_.
 
 ## **p01**
 ### Projects:
-* [Fahrenheit to celsius](https://github.com/sp0002/cp2019/blob/master/p01/q1_fahrenheit_to_celsius.py)  Converts degrees fahrenheit to degrees celsius.
+* [Fahrenheit to celsius](https://github.com/sp0002/cp2019/blob/master/p01/q1_fahrenheit_to_celsius.py)  Converts degrees Fahrenheit to degrees Celsius.
 * [Volume of cylinder finder](https://github.com/sp0002/cp2019/blob/master/p01/q2_calc_cylinder_volume.py)  Calculates volume of a cylinder given the radius and height.
 * [Miles to kilometers](https://github.com/sp0002/cp2019/blob/master/p01/q3_miles_to_kilometre.py )  Converts miles to kilometers.
 * [Sum of digits](https://github.com/sp0002/cp2019/blob/master/p01/q4_sum_digits.py)  Finds the sum of all digits of a number between 0 to 1000.
@@ -15,7 +15,7 @@ The programs here use _python_.
 ## **p02**
 ### Projects:
 * [Check even](https://github.com/sp0002/cp2019/blob/master/p02/q01_check_even.py)  Checks if a number is even.
-* [Check triangle](https://github.com/sp0002/cp2019/blob/master/p02/q02_triangle.py)  Checks if a triangle is valid and gives its pperimater if valid.
+* [Check triangle](https://github.com/sp0002/cp2019/blob/master/p02/q02_triangle.py)  Checks if a triangle is valid and gives its perimeter if valid.
 * [Check band](https://github.com/sp0002/cp2019/blob/master/p02/q03_determine_grade.py)  Checks the grade banding for a specific mark.
 * [Determine leap year](https://github.com/sp0002/cp2019/blob/master/p02/q04_determine_leap_year.py)  Returns if a year is a leap year.
 * [Days in a month](https://github.com/sp0002/cp2019/blob/master/p02/q05_find_month_days.py)  Returns the number of days in a given month and year.
